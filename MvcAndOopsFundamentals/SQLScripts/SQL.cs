@@ -1,4 +1,6 @@
-﻿1.select * from customers where name like '%Joe'
+﻿/*
+ * 
+ * 1.select * from customers where name like '%Joe'
 
 ------------------------ -
 
@@ -14,4 +16,4 @@ where
 	and CreatedAt > '11/1/2016'
 
 
-	
+*/
