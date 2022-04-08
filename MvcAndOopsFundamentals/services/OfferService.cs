@@ -34,7 +34,7 @@ namespace MvcAndOopsFundamentals.services
 
         public List<Product>  GetTodaysOffers()
         {
-           
+            return Inventory;
         }
 
     }
